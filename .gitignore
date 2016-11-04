@@ -1,0 +1,5 @@
+/phone_server/doc/
+/phone_server/libs/
+/phone_server/lib/
+/phone_server/.crystal/
+/phone_server/.shards/
